@@ -13,23 +13,19 @@ To install ToxPredictor, follow these steps:
 Clone the repository:
 
 bash
-复制代码
 git clone https://github.com/SHCDC-LAB/ToxPredictor.git
 Navigate to the project directory:
 
 bash
-复制代码
 cd ToxPredictor
 Install the required dependencies:
 
 bash
-复制代码
 pip install -r requirements.txt
 Usage
 To use ToxPredictor, simply run the main application script:
 
 bash
-复制代码
 python main.py
 Follow the on-screen instructions to input chemical data and view toxicity predictions.
 
