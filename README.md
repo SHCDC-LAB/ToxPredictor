@@ -31,8 +31,6 @@ Follow the on-screen instructions to input chemical data and view toxicity predi
 Contributing:
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements:
 Machine Learning Libraries
